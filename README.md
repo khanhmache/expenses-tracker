@@ -31,3 +31,5 @@ python -m pytest -v
 
 Expenses are stored in memory and disappear
 when the application restarts.
+
+add for tests
